@@ -147,7 +147,7 @@
         "@babel/plugin-external-helpers": "^7.2.0",
         "@babel/preset-env": "^7.5.4",
         "@babel/preset-react": "^7.0.0",
-        "electron": "^6.0.1",
+        "electron": "^13.6.6",
         "electron-packager": "^14.0.4",
         "eslint-plugin-react-hooks": "^1.6.1",
         "gulp": "^4.0.2",
